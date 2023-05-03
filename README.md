@@ -11,11 +11,11 @@ To use the script, simply run the Script.py file and enter the meeting ID and pa
 # Requirements
 
 The script requires these following libraries to be installed, which can be installed using the following command: 
-> pip install time
+- pip install time
 
-> pip install schedule
+- pip install schedule
 
-> pip install webbrowser
+- pip install webbrowser
 
 You also need to have the Zoom app installed on your computer.
 
